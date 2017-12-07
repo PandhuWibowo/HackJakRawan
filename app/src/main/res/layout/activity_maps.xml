@@ -7,6 +7,10 @@
     android:orientation="vertical"
     tools:context="com.example.root.hackjak.MapsActivity">
 
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/tool_bar"></include>
+
     <fragment
         android:id="@+id/maps_lokasi"
         class="com.google.android.gms.maps.SupportMapFragment"

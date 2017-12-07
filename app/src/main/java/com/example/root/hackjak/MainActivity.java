@@ -9,7 +9,7 @@ import android.widget.Button;
 import com.example.root.hackjak.activity.SignUpActivity;
 
 public class MainActivity extends AppCompatActivity {
-    public Button registSignUp;
+    public Button registSignUp, signIn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,5 +23,15 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        signIn = findViewById(R.id.btn_signin);
+        signIn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), MapsActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

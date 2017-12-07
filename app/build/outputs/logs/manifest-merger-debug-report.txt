@@ -115,29 +115,29 @@ ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidMani
 	android:name
 		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:18:19-47
 activity#com.example.root.hackjak.MapsActivity
-ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:19:9-21:20
 	android:name
 		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:19:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:20:9-24:25
-action#android.intent.action.MAIN
-ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:21:13-65
-	android:name
-		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:21:21-62
-category#android.intent.category.LAUNCHER
-ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:23:13-73
-	android:name
-		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:23:23-70
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:27:9-29:46
+ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:23:9-25:46
 	android:value
-		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:29:13-43
+		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:25:13-43
 	android:name
-		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:28:13-58
+		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:24:13-58
 activity#com.example.root.hackjak.activity.SplashScreen
-ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:31:9-33:20
+ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:27:9-33:20
 	android:name
-		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:31:19-56
+		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:27:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:31:27-74
 activity#com.example.root.hackjak.activity.SignUpActivity
 ADDED from /home/pandhu/Riset/UpGithubHackathon/HackJak/app/src/main/AndroidManifest.xml:34:9-38:60
 	android:parentActivityName

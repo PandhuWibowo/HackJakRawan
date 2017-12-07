@@ -11,7 +11,12 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -58,6 +63,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     String listId, desc, address, longitude, latitude, date, starthour, endhour, quota, userId;
     TextView tvDesc, tvAddress, tvLongitude, tvLatitude, tvDate, tvStartHour, tvEndHour, tvQuota;
     Button btnDaftar;
+
+    //Toolbar
+    private Toolbar toolbar;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -69,7 +78,13 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         latitude = "-6.235510";
         longitude = "106.747263";
+
+        toolbar = (Toolbar) findViewById(R.id.tool_bar); // Attaching the layout to the toolbar object
+        toolbar.setLogoDescription(getResources().getString(R.string.sign_up_title));
+        toolbar.setTitleTextColor(getResources().getColor(R.color.title));
+        toolbar.setTitle("Rawan");
     }
+
 
     @Override
     public void onConnected(@Nullable Bundle bundle) {

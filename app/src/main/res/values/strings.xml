@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hack Jak</string>
+    <string name="keymap">AIzaSyDr_vTzzGikz2h8POmzEkLofBFY1hQhoq4</string>
+
+    <string name="account">Do not have account? Let us Sign Up here</string>
+    <string name="signIn">Sign In</string>
+    <string name="registration">Sign Up</string>
+    <string name="sign_up_title">Rawan</string>
+</resources>

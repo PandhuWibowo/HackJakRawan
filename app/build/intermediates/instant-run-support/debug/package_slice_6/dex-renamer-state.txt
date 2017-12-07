@@ -1,0 +1,4 @@
+#Thu Dec 07 12:27:32 WIB 2017
+base.0=/home/nico/AndroidStudioProjects/HackJak/app/build/intermediates/transforms/dexMerger/debug/45
+path.0=classes.dex
+renamed.0=classes.dex

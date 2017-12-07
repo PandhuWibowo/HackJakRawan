@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 08 02:48:11 WIB 2017
+0.baseType=DIRECTORY
+0.base=/home/pandhu/Riset/UpGithubHackathon/HackJak/app/build/intermediates/transforms/dexMerger/debug/57
+0.path=classes.dex
+0.set=DEX
+count=1

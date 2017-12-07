@@ -1,0 +1,2 @@
+# HackJakRawan
+Aplikasi ini merupakan aplikasi untuk memetakan sebuah daerah rawan kejahatan, pada aplikasi ini memetakannya berdasarkan kecamatan yang ada di sekitar. Cakupan wilayah yang terdeteksi hanya pada daerah DKI Jakarta. DataSet yang kami dapatkan bersumber dari : http://dev.smartcity.jakarta.go.id/jakgo/ruang-publik-api--review-master/api-docs/#/ruang-publik/ipks. Kedepannya akan ada beberapa data tambahan yang kami tambahkan diluar ketentuan data set yang ada. Kelompok Kami terdiri dari Helmi Nur Ihsan, Nico, dan Pandhu Wibowo - Universitas Budi Luhur

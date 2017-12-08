@@ -1,4 +1,4 @@
-#Fri Dec 08 05:03:16 WIB 2017
-base.0=/home/pandhu/Riset/UpGithubHackathon/HackJak/app/build/intermediates/transforms/dexMerger/debug/57
+#Fri Dec 08 11:11:18 WIB 2017
+base.0=/home/pandhu/Riset/UpGithubHackathon/HackJak/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

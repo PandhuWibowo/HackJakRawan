@@ -48,13 +48,13 @@
 
     <EditText
         android:background="@drawable/username"
-        android:id="@+id/editText"
+        android:id="@+id/edt_email"
         android:layout_width="288dp"
         android:layout_height="45dp"
         android:ems="10"
         android:paddingLeft="60dp"
         android:inputType="textPersonName"
-        android:hint="Username"
+        android:hint="Email"
         android:layout_marginLeft="36dp"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginTop="36dp"
@@ -62,7 +62,7 @@
 
     <EditText
         android:background="@drawable/password"
-        android:id="@+id/editText2"
+        android:id="@+id/edt_password"
         android:layout_width="288dp"
         android:layout_height="45dp"
         android:ems="10"

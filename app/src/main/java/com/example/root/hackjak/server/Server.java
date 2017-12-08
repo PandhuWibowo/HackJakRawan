@@ -5,5 +5,5 @@ package com.example.root.hackjak.server;
  */
 
 public class Server {
-    String URL = "http://192.168.0.9/perawan/";
+    String URL = "http://ikutevent.com/api-event/hackjak/";
 }
